@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid salmon;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+img {
+    width: 150px;
+    margin-left: 20px;
+}
+
+.carrito-logo {
+    margin-right: 10%;
+}
+
+.buttonNav {
+    margin: 10px;
+}
